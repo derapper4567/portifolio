@@ -2,4 +2,6 @@ script: |
   npm install
   npm run build
 
+run: echo "build completed"
+
 app_file: dist/index.html
