@@ -2,4 +2,4 @@ script: |
   npm install
   npm run build
 
-run: npx serve -s dist -l 8000
+app_file: dist/index.html
