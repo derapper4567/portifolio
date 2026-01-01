@@ -2,6 +2,6 @@ script: |
   npm install
   npm run build
 
-run: /bin/true
+run: dist
 
 app_file: dist/index.html
