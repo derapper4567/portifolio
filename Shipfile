@@ -2,6 +2,6 @@ script: |
   npm install
   npm run build
 
-run: echo "build completed"
+run: /bin/true
 
 app_file: dist/index.html
